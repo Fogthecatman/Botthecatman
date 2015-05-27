@@ -1,0 +1,15 @@
+##Changes
+
+- Added OAuth key input for GitHub documentation
+- Added ?multitwitch command that creates a multitwitch command for people entered
+- Added a join message for people joining the stream
+- Added a WHOLE new GUI system thanks to @Jamal on stackexchange http://codereview.stackexchange.com/questions/25461/simple-chat-room-swing-gui 
+- Sounds! toggle them on and off
+-
+
+--CLASSES BEING WORKED ON
+* Command.java for cleaner code
+
+
+##Depricated
+- Info.java (Was changed to inglude itself in GUI.java)
