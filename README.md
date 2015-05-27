@@ -2,7 +2,7 @@
 A chatbot for twitch
 
 Version
-1.0.0
+1.0.2
 
 
 - Download these files as you need them
