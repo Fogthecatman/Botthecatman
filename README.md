@@ -1,8 +1,8 @@
 # Botthecatman
 A chatbot for twitch
 
-You can download the .zip file and execute the jar to run this program.
-Or you may download the source files and run them in your prefered IDE. 
+You may download the source files and run them in your prefered IDE.
+**I'm Working on a runnable Jar file but unfortunately this is not available at the moment.
 
 New res folder has been created to hold the songs and txt documents for the program to reference, 
 make sure those are available for the program to use.
